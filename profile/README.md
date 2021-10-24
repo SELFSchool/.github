@@ -10,3 +10,7 @@ Principles: Self-knowledge, self-ownership and self-directed principle of educat
 ## Links:
 
 [About SELF School](https://github.com/SELFSchool/.github/blob/main/profile/About.md)
+
+[Website](https://selfschool.org)
+
+[Twitter](https://twitter.com/selfschoolhq)
