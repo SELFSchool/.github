@@ -13,6 +13,14 @@ SELF School is based on the principles of self-knowledge, self-ownership and sel
 
 ### Blueprint
 
+SELF Blueprint layout the roadmap and possibilities for families to take charge of their education. 
+Principle and practice of Self-directed learning
+How to choose curriculum
+How to adapt material from available books, courses, videos, MOOC. 
+How to incorporate coding and computer science
+How to conquer STEM
+How to learn foreign language 
+
 ### Curriculum
 
 SiGMA is a schema and knowlege tree that's designed to be flexiable, comprehansive and infinitly extensible.
