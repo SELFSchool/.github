@@ -3,7 +3,7 @@ Self-directed Empowerment and Learning for Families
 
 Mission: Build a network of communities for families to take ownership of their education. 
 
-Community: We are a community centric organization. We are community first and to be exact community of families. 
+Community: We are a community centric organization. We are community first. 
 
 Principles: Self-knowledge, self-ownership and self-directed principle of education. 
 
