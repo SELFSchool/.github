@@ -7,4 +7,6 @@ Community: We are a community centric organization. We are community first.
 
 Principles: Self-knowledge, self-ownership and self-directed principle of education. 
 
-More details at: [About SELF School](https://github.com/SELFSchool/.github/blob/main/profile/About.md)
+## Links:
+
+[About SELF School](https://github.com/SELFSchool/.github/blob/main/profile/About.md)
