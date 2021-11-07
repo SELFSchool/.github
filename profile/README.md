@@ -1,7 +1,7 @@
 # Welcome to SELF School
 Self-directed Empowerment and Learning for Families
 
-Mission: Build a network of communities for families to take ownership of their education. 
+Mission: SELF School aims to build communities and tools for families to take ownership of their education.
 
 Community: We are a community centric organization. We are community first. 
 
