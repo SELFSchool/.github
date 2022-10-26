@@ -15,7 +15,7 @@ SELF School aims to build communities and tools for families to take ownership o
 <h2>II. VALUES and VISION</h2>
 
   <h3>Values</h3>
-  <h3>Vission</h3>
+  <h3>Vision</h3>
 
 <h2>III. PILLARS, PRINCIPLES and PRACTICES</h2>
   <h3>Pillars</h3>
