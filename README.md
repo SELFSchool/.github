@@ -2,4 +2,11 @@
 <p align="center">Self-directed Empowerment and Learning for Families</p>
 <p align="center">| <a href="about.md">About</a> | <a href="https://github.com/SELFSchool/community">Community</a> | <a href="https://github.com/SELFSchool/discussions">Discussions</a> | | <a href="https://selfschool.gumroad.com/">Guides</a> | <a href="">Join</a> |</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/38446/194170475-f9d39cd4-2a7a-445c-ac85-5f1f312b638b.png" /></p>
+<h2 align="center">Mission</h2>
+<p align="center">SELF School aims to build communities and tools for families to take ownership of their education.</p>
+
+<h2 align="center">Community</h2>
+<p align="center">We are a community centric organization. We are community first.</p>
+
+<h2 align="center">Principles</h2>
+<p align="center">Self-knowledge, self-ownership and self-directed principle of education. <br>Driven by students, own by family, participate in community.</p>
