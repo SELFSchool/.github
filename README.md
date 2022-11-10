@@ -23,5 +23,5 @@ SELF School aims to build communities and tools for families to take ownership o
   Self-knowledge, self-ownership and self-directed principle of education. <br>Driven by students, own by family, participate in community.
   
   <h3>Practices</h3>
-  
+  Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.<br>- Helen Keller
 </div>
